@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Scout: choosing the screening threshold and inspection interval of a crop disease camera node"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - given-names: Michael
+    family-names: "Muigai"
+    affiliation: "Department of Mechatronic Engineering, School of Engineering, Dedan Kimathi University of Technology"
+  - given-names: Peterson
+    family-names: "Nyaga"
+    affiliation: "Department of Mechatronic Engineering, School of Engineering, Dedan Kimathi University of Technology"
+  - given-names: Morris Kimathi
+    family-names: "Mwangi"
+    affiliation: "Department of Mechatronic Engineering, School of Engineering, Dedan Kimathi University of Technology"
+  - given-names: Samuel Macharia
+    family-names: "Kang'iri"
+    affiliation: "Department of Mechatronic Engineering, School of Engineering, Dedan Kimathi University of Technology"
+    orcid: "https://orcid.org/0000-0002-7326-7502"
+repository-code: "https://github.com/SiliconWit/crop-disease-screening-and-inspection-design"
+license: MIT
+keywords:
+  - edge inference offloading
+  - plant disease epidemics
+  - threshold optimisation
+  - bandwidth-constrained IoT
+  - reproducible research

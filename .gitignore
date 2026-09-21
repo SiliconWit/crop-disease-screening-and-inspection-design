@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
+.ipynb_checkpoints/
+.env
+
+# Generated outputs
+results/*
+!results/.gitkeep
+
+# Manuscript and raw measurements are not kept here
+paper/
+data/images/
+data/bench/*
+!data/bench/.gitkeep
